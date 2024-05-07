@@ -1,9 +1,12 @@
 ---
 title: GITHUB블로그에 jekyll테마(chirpy) 적용하기
 author: lin
-date: 2023-11-10 11:12:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+date: '2023-11-10 11:12:00 +0800'
+categories:
+  - Blogging
+  - Tutorial
+tags:
+  - favicon
 ---
 
 
@@ -18,7 +21,7 @@ jekyll 테마 사이트들이 몇개있었는데 퀄리티가 다소 떨어지�
 1. ruby(3.0이상)
 https://rubyinstaller.org/downloads/
 > 버전은 반드시 3.0 이상으로 해야 chirpy 테마에서 사용하는 모듈이 정상적으로 동작한다.
-{: .prompt-info }
+{: .prompt-info }d
 
 2. node.js
 https://nodejs.org/en
